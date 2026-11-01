@@ -1,15 +1,5 @@
 # AAIA Tech Panel — Proposal (Draft for Comment)
 
-:::info
-**Status:** Draft — open for comments
-**Core group:** 5 members 
-**How to give feedback:** Select any text and add a comment, or add to the *Open Questions* section at the bottom.
-:::
-
-[TOC]
-
----
-
 ## 1. Purpose
 
 A recurring, hands-on technical discussion panel for AAIA members. The focus is **deep dives with real, practical experience**, not slide-only talks. Each session should leave attendees with something they can try themselves.
